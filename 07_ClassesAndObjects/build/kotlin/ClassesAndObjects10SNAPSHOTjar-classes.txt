@@ -1,0 +1,1 @@
+A:\Tasks\Kotlin\07_ClassesAndObjects\build\classes\kotlin\main\Channels.class;A:\Tasks\Kotlin\07_ClassesAndObjects\build\classes\kotlin\main\MainKt.class;A:\Tasks\Kotlin\07_ClassesAndObjects\build\classes\kotlin\main\TV$Companion.class;A:\Tasks\Kotlin\07_ClassesAndObjects\build\classes\kotlin\main\TV.class

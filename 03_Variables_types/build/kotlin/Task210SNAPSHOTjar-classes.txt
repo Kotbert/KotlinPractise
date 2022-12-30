@@ -1,0 +1,1 @@
+A:\Tasks\Kotlin\03_Variables_types\Task2\build\classes\kotlin\main\MainKt.class
